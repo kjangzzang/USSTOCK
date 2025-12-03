@@ -1,0 +1,5 @@
+{
+  "name": "MarketInsight Pro",
+  "description": "一个由 Google Gemini 驱动的智能美股查询与分析平台，提供实时数据搜索、图表可视化及深度 AI 解读。",
+  "requestFramePermissions": []
+}
